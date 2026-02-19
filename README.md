@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, React, Database Design, AI integration**
 
-- 👨‍💻 All of my projects are available at [https://hassan-portfolio-xx21.vercel.app/](https://hassan-portfolio-xx21.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hassan-portfolio-xx21.vercel.app/](https://m-hassan-irfan-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Next.js, Software design patterns, UML diagrams, SQl**
 
